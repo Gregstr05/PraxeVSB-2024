@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Krizovatka.umap",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/1/BS/P497KBCXSB9W7DKINMYVCN.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/6/YF/G4JL57PA3WSHBXO1FS2JX9.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/9/TP/4533DJTBOS01LZKT6IRHVQ.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/2/FK/USL1TOL7AB8YQTZOPQAELS.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/2/1T/047R8P5XM4A1OFM3WXF2TZ.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/D/DR/55FL1YVTF53KZJP0U3VR52.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/E/NX/I6BTGCAXR00X1U6NGGGBM2.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/B/7G/4E6ET2LW0Y8WL8OQRDO5AW.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalObjects__/Krizovatka/Krizovatka/9/TP/NV1UD21CNHPTVCYFTW2S15.uasset"
+			]
+		}
+	]
+}
