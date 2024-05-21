@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/iwoniak/PraxeVSB-2024/Game/Content/Meshes/trashbin.uasset",
-				"D:/iwoniak/PraxeVSB-2024/Game/Content/Meshes/can.uasset",
 				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Krizovatka.umap",
 				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/1/BS/P497KBCXSB9W7DKINMYVCN.uasset",
 				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/6/YF/G4JL57PA3WSHBXO1FS2JX9.uasset",
@@ -16,7 +14,27 @@
 				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/D/DR/55FL1YVTF53KZJP0U3VR52.uasset",
 				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/E/NX/I6BTGCAXR00X1U6NGGGBM2.uasset",
 				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalActors__/Krizovatka/Krizovatka/B/7G/4E6ET2LW0Y8WL8OQRDO5AW.uasset",
-				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalObjects__/Krizovatka/Krizovatka/9/TP/NV1UD21CNHPTVCYFTW2S15.uasset"
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/__ExternalObjects__/Krizovatka/Krizovatka/9/TP/NV1UD21CNHPTVCYFTW2S15.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/zaobleny_dum_Cube.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/MI_ZaoblenyDum.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/1/zaobleny_dum_DefaultMaterial_BaseColor.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/1/zaobleny_dum_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/1/zaobleny_dum_DefaultMaterial_Normal.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/2/zaobleny_dum1_DefaultMaterial_BaseColor.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/2/zaobleny_dum1_DefaultMaterial_Normal.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/2/zaobleny_dum1_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/3/zaobleny_dum2_DefaultMaterial_BaseColor.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/3/zaobleny_dum2_DefaultMaterial_Normal.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/3/zaobleny_dum2_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/4/zaobleny_dum3_DefaultMaterial_BaseColor.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/4/zaobleny_dum3_DefaultMaterial_Normal.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/4/zaobleny_dum3_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/MI_ZaoblenyDum_1.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/MI_ZaoblenyDum_2.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/MI_ZaoblenyDum_3.uasset",
+				"D:/PraxeSPSEI/PraxeVSB-2024/Game/Content/Krizovatka/Houses/MI_ZaoblenyDum_4.uasset",
+				"D:/iwoniak/PraxeVSB-2024/Game/Content/Meshes/trashbin.uasset",
+				"D:/iwoniak/PraxeVSB-2024/Game/Content/Meshes/can.uasset"
 			]
 		}
 	]
