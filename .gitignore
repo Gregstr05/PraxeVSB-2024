@@ -89,3 +89,5 @@ Game/Saved/AutoScreenshot.png
 Game/Saved/Autosaves/PackageRestoreData.json
 Game/Intermediate/CachedAssetRegistry_0.bin
 Game/Saved/Logs/Game.log
+/Game/Intermediate
+/Game/Saved
